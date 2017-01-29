@@ -10,6 +10,15 @@ body,html {
 	color: #ffffff;
 }
 
+@font-face{
+	font-family: 'Raleway-ExtraLight';
+	src: url('Raleway-ExtraLight.ttf');
+}
+
+h2 {
+	font-family: 'Raleway-ExtraLight';
+}
+
 a {
 	text-decoration: none;
 	color: #00aed1;
