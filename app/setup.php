@@ -7,7 +7,7 @@
  */
 
  //define base url
- define("BASE_URL","https://megafusetech.com");
+ define("BASE_URL","https://megafuse.mybluemix.net");
 
  define("ADMIN_URL", "http://localhost:8080");
 
